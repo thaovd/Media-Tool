@@ -11,10 +11,10 @@ Phần mềm tổng hợp các công cụ nhanh, tiện lợi dành cho editer, 
 
 * **Đổi tên file hàng loạt**
 
+![image](https://github.com/user-attachments/assets/eecdab88-a74f-486b-9941-af3fa8fe83a8)
 
 ![image](https://github.com/user-attachments/assets/06bcecde-9d99-40de-aa42-344689ab25ee)
-![image](https://github.com/user-attachments/assets/29040236-33cf-4f29-a91c-dd38ac0adc01)
-![image](https://github.com/user-attachments/assets/ef728050-57bd-4e65-b56d-ec32fb07ee7f)
+
 
 
 
