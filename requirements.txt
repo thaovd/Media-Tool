@@ -1,0 +1,6 @@
+yt-dlp==2025.2.19
+requests
+google-api-python-client==2.154.0
+progressbar
+google-generativeai
+pillow
